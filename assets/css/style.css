@@ -6,7 +6,38 @@ header nav       {float: right; margin: 7px 0;}
 header nav ul li {display: inline;}
 header nav ul li a {margin: 0 30px; font-weight: lighter; font-size: 22px;}
 body             {/* this is a comment in css */font-family: Helvetica, Arial, sans-serif; color: #39a6b2;}
+/* hero style start */
 
+section {
+    padding: 60px;
+}
+.hero {
+
+    height: 600px;
+    background-image: url("../images/hero-bg.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
+/* hero style end
+ */
+.hero-form
+{
+    border: solid 3px #024e76;
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    color: #024e76;
+    position: absolute;
+    bottom: 120px;
+    right: 140px;
+
+}
+.hero-form p {
+    margin: 5px 0 15px 0;
+
+}
 
 footer           
     {background: #fce138; 
@@ -30,3 +61,36 @@ footer h2
 
 footer a         
     {color: #024e76;}
+
+.hero-form h3 {
+    margin: 0px;
+    font-size: 24px;
+
+
+}
+
+.form-input {
+font-size: 16px;
+border: 1px solid #024e76;
+display: block;
+padding: 7px 15px;
+color:#024e76;
+width: 100%;
+margin-bottom: 15px;
+
+}
+
+.hero-form label {
+    margin: 0 5px;
+}
+
+.hero-form button {
+    background-color: #024e76;
+    color:#fce138;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    
+
+
+}

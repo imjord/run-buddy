@@ -1,7 +1,7 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services.
+A website that offers fitness training services. 
 
 ## Built With
 * HTML
@@ -11,4 +11,8 @@ A website that offers fitness training services.
 https://imjord.github.io/run-buddy/index.html
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Jordan
+
+### ©️2021 Run Buddy, Inc 
+
+

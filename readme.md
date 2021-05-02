@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://imjord.github.io/run-buddy/index.html
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by [jordan]

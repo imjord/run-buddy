@@ -1,4 +1,8 @@
-
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
   
   body {
     /* more on this crazy alphanumerical value in a minute! */
@@ -40,27 +44,30 @@
     list-style: none;
   }
      header nav ul li a {
-    margin: 0 30px;
-    font-weight: lighter;
-    font-size: 1.55vw;
+      padding: 10px 15px;
+      font-weight: lighter;
+      font-size: 1.55vw;
   } 
   footer {
-    background: #fce138;
-    width: 100%;
+    background: #fce138;    
     padding: 40px 35px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
   }
   
   footer h2 {
-    display: inline;
+    
     color: #024e76;
     font-size: 30px;
     margin: 0;
   }
   
   footer div {
-    float: right;
     line-height: 1.5;
     text-align: right;
+
   }
   
   footer a {
@@ -270,9 +277,4 @@
   color: #fce138;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 

@@ -11,8 +11,8 @@ A website that offers fitness training services.
 https://imjord.github.io/run-buddy/index.html
 
 ## Contribution
+
 Made with ❤️ by Jordan
 
 ### ©️2021 Run Buddy, Inc 
-
 
